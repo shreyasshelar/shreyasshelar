@@ -100,15 +100,17 @@ Production-grade payment infrastructure built from the ground up.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyasshelar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
-
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasshelar&layout=compact&theme=default&hide_border=true&card_width=350" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyasshelar&theme=github" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasshelar&theme=github" alt="Top Languages by Commit" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=shreyasshelar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasshelar&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
