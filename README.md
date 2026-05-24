@@ -28,7 +28,7 @@ Backend engineer building production-grade distributed systems at scale. At **Ka
 
 ## What I Build
 
-- **High-throughput pipelines** — Reduced a data ingestion job processing 81K API calls from ~269 days → 6 hours (>99.9% improvement) via nested parallelism and HTTP/2 upgrade
+- **High-throughput pipelines** — Reduced a data ingestion job processing 81K API calls from ~269 days → 6 hours (>99.9% improvement) via nested parallelism and HTTP/1.1 upgrade
 - **Distributed backends** — Event-driven microservices, Saga orchestration, CQRS, transactional outbox, distributed caching — engineered for correctness under failure
 - **Fintech infrastructure** — Payment systems, ledger design, reconciliation engines, fraud detection pipelines, OAuth2/OIDC multi-IdP federation, AES encryption at rest
 - **Greenfield services** — Notification engine, email pipeline, distributed Quartz scheduler, document management system (1,000+ encrypted docs/month), custom DB-to-DB integration engine replacing AWS DMS
@@ -102,7 +102,7 @@ Production-grade payment infrastructure built from the ground up.
 |---|---|
 | **16,000+** | clients on the forex treasury platform |
 | **>99.9%** | pipeline runtime reduction — ~269 days → 6 hours |
-| **81,000** | API calls re-engineered with nested parallelism + HTTP/2 |
+| **81,000** | API calls re-engineered with nested parallelism + HTTP/1.1 |
 | **800ms → 200ms** | p95 API latency after N+1 fix + composite indexes + distributed cache |
 | **1,000+** | AES-encrypted documents delivered per month |
 | **5** | greenfield services built and owned end-to-end |
