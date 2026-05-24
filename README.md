@@ -96,23 +96,18 @@ Production-grade payment infrastructure built from the ground up.
 
 ---
 
-## GitHub Stats
+## By the Numbers
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyasshelar&theme=github" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasshelar&theme=github" alt="Top Languages by Commit" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shreyasshelar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasshelar&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-
-</div>
+| | |
+|---|---|
+| **16,000+** | clients on the forex treasury platform |
+| **>99.9%** | pipeline runtime reduction — ~269 days → 6 hours |
+| **81,000** | API calls re-engineered with nested parallelism + HTTP/2 |
+| **800ms → 200ms** | p95 API latency after N+1 fix + composite indexes + distributed cache |
+| **1,000+** | AES-encrypted documents delivered per month |
+| **5** | greenfield services built and owned end-to-end |
+| **10** | microservices in AegisPay with exactly-once delivery guarantees |
+| **1** | AWS certification — Data Engineer Associate, Oct 2025 |
 
 ---
 
